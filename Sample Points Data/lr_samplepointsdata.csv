@@ -1,0 +1,26 @@
+Variable,R-score,RMSE
+pH ,0.247295904,1.294813689
+pH Redox  ,0.388018823,1.167519586
+pH Redox  Salinity  ,0.373023902,1.18173646
+pH Redox  Salinity  Conductivity  ,0.436850968,1.119971093
+pH Redox  Salinity  Conductivity  Temperature  ,0.680188625,0.843999318
+pH Salinity  ,0.239608756,1.301408671
+pH Salinity  Conductivity  ,0.297340306,1.251029825
+pH Salinity  Conductivity  Temperature  ,0.687481709,0.8343204
+pH Conductivity  ,0.242157837,1.299225465
+pH Conductivity  Temperature  ,0.5910125,0.954443357
+pH Temperature  ,0.544379066,1.007388474
+Redox  ,-0.04025314,1.522175264
+Redox  Salinity  ,-0.040019097,1.52200402
+Redox  Salinity  Conductivity  ,0.059349025,1.44746942
+Redox  Salinity  Conductivity  Temperature  ,-0.000871499,1.493084214
+Redox  Conductivity  ,-0.030250369,1.514839189
+Redox  Conductivity  Temperature  ,0.060551358,1.446544053
+Redox  Temperature  ,0.082558697,1.429500418
+Salinity  ,-0.022678046,1.509261901
+Salinity  Conductivity  ,0.078320355,1.432798574
+Salinity  Conductivity  Temperature  ,0.065511871,1.442719949
+Salinity  Temperature  ,-0.009021289,1.499150753
+Conductivity  ,-0.013519705,1.502488792
+Conductivity  Temperature  ,-0.00095478,1.493146331
+Temperature  ,-0.009033526,1.499159843

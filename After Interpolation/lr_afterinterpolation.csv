@@ -1,0 +1,26 @@
+Variable,R-score,RMSE
+pH ,-2.022405985,1.447798254
+pH Redox__mV_ ,-2.345351164,1.523184476
+pH Redox__mV_ Salinity__ ,-8.019766778,2.5010899
+pH Redox__mV_ Salinity__ Conductivi ,-6.843171614,2.332262918
+pH Redox__mV_ Salinity__ Conductivi Temperature ,-1.764179266,1.384569469
+pH Salinity__ ,-1.082272862,1.201712194
+pH Salinity__ Conductivi ,-2.279301928,1.508072951
+pH Salinity__ Conductivi Temperature ,0.673879737,0.475576669
+pH Conductivi ,-1.053381083,1.193346124
+pH Conductivi Temperature ,0.524974296,0.573971335
+pH Temperature ,0.073601866,0.801549752
+Redox__mV_ ,-8.837212042,2.611966874
+Redox__mV_ Salinity__ ,-5.825346762,2.175674936
+Redox__mV_ Salinity__ Conductivi ,-6.572801389,2.291711435
+Redox__mV_ Salinity__ Conductivi Temperature ,-8.005708183,2.499139987
+Redox__mV_ Conductivi ,-5.75962518,2.165174761
+Redox__mV_ Conductivi Temperature ,-6.230053712,2.23924911
+Redox__mV_ Temperature ,-5.745097545,2.162846837
+Salinity__ ,-0.597339576,1.0525198
+Salinity__ Conductivi ,-0.543719245,1.034703237
+Salinity__ Conductivi Temperature ,-3.287972676,1.724477979
+Salinity__ Temperature ,-0.62216138,1.060666072
+Conductivi ,-0.604255429,1.054795837
+Conductivi Temperature ,-0.599346414,1.053180765
+Temperature ,-0.71786616,1.091506461
